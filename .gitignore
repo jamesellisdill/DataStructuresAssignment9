@@ -1,6 +1,7 @@
 # VS Code
 .vscode/
 .bin/
+*.class
 
 # MacOS
-.DS_Store/
+*.DS_Store
