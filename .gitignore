@@ -1,6 +1,7 @@
 # VS Code
 .vscode/
 .bin/
+.lib/
 
 # MacOS
-.DS_Store/
+.DS_Store
